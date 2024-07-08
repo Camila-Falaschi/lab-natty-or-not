@@ -16,5 +16,8 @@ Breve descrição do seu projeto
 - O HeyGen foi utilizado através do seu plugin no Canva para gerar um vídeo com um avatar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Você pode conferir o vídeo produzio na pasta [assets](./assets/acessibilidade-web-na-pratica.mp4).
 
+> Confira o vídeo clicando na imagem abaixo. ↓
+
+<img src="./assets/Thumbnail.png" width="500" />

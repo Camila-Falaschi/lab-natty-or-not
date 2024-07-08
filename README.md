@@ -20,5 +20,4 @@ O vídeo aborda o tema de Acessibilidade Web, mostrando como é um site acessív
 Você pode conferir o vídeo produzio na pasta [assets](./assets/acessibilidade-web-na-pratica.mp4).
 
 > Confira o vídeo clicando na imagem abaixo. ↓
-
-<img src="./assets/Thumbnail.png" width="500" />
+<a href="./assets/acessibilidade-web-na-pratica.mp4"><img src="./assets/Thumbnail.png" width="500" /></a>

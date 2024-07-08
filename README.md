@@ -1,7 +1,8 @@
 # Natural ou Fake Natty? ─ Acessibilidade Web na Prática!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Para esse projeto foi produzido um vídeo utilizando AIs Generativas para gerar o avatar, imagens e áudio.
+O vídeo aborda o tema de Acessibilidade Web, mostrando como é um site acessível na prática.
 
 ## 🤖 Tecnologias Utilizadas
 - [Canva](https://www.canva.com/)
